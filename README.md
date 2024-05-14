@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Wira!
 👩🏻‍💻 Newbie Web programmer who still learning in tech<br/>
-👩🏻‍🎓 Studied [Computer Science] at the University Amikom Yogyakarta, Indonesia 🇮🇩<br/>
+👩🏻‍🎓 Studied [Computer Science] at the University Amikom Yogyakarta, Indonesia <br/>
 🧩 Keep learning till I became a robot<br/>
 💭 Currently learning about front end web!<br/>
 
