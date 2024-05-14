@@ -6,4 +6,4 @@
 💭 Currently learning about front end web!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=wiradevs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wiradevs&show_icons=true&theme=radical)<br/>
