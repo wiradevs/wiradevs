@@ -1,5 +1,5 @@
 <!--update header and gif emoji-->
-[![MasterHead]([(https://drive.google.com/file/d/120UoL6xVLdOElJPLxJ6tPsMI18IxTORm/view?usp=sharing)]))
+
 <h1 align="center">Hi 👋, I'm Imsak Yanuar</h1>
 <h3 align="center">A newbie Web programmer from Indonesia</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" />
