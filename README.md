@@ -14,7 +14,7 @@
 👩🏻‍💻 Newbie Web programmer who still learning in tech<br/>
 👩🏻‍🎓 Studied [Computer Science] at the University Amikom Yogyakarta, Indonesia <br/>
 🧩 Keep learning till I became fullstack developer<br/>
-💭 Currently learning about fullstack web!<br/>
+💭 Currently learning about software engineer!<br/>
 
 
 
