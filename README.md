@@ -8,9 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiradevs&label=Profile%20views&color=0e75b6&style=flat" alt="wiradevs" /> </p>
 
-<a href="https://x.com/imsakkanaeru">
-  <img src="https://img.shields.io/x/follow/imsakkanaeru?logo=x&style=for-the-badge" alt="X Follow">
-</a>  </p>
+[![X](https://img.shields.io/badge/X-@imsakkanaeru-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imsakkanaeru)  </p>
 
 
 👩🏻‍💻 Newbie Web programmer who still learning in tech<br/>
