@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiradevs&label=Profile%20views&color=0e75b6&style=flat" alt="wiradevs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iimsakyanuar" target="blank"><img src="https://img.shields.io/twitter/follow/iimsakyanuar?logo=twitter&style=for-the-badge" alt="imsakkanaeru"  </p>
+<p align="left"> <a href="https://x.com/imsakkanaeru" target="blank"><img src="https://img.shields.io/x/follow/imsakkanaeru?logo=x&style=for-the-badge" alt="imsakkanaeru"  </p>
 
 
 👩🏻‍💻 Newbie Web programmer who still learning in tech<br/>
