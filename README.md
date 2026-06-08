@@ -1,7 +1,7 @@
 <!--update header and gif emoji-->
 
 <h1 align="center">Hi 👋, I'm Imsak Yanuar</h1>
-<h3 align="center">A newbie Web programmer from Indonesia</h3>
+<h3 align="center">A newbie Full-stack Developer from Indonesia</h3>
 
 <br>
 
@@ -11,7 +11,7 @@
 [![X](https://img.shields.io/badge/X-@imsakkanaeru-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imsakkanaeru)  </p>
 
 
-👩🏻‍💻 Newbie Web programmer who still learning in tech<br/>
+👩🏻‍💻 Newbie Full-stack Developer who still learning in tech<br/>
 👩🏻‍🎓 Studied [Computer Science] at the University Amikom Yogyakarta, Indonesia <br/>
 🧩 Keep learning till I became software engineer<br/>
 💭 Currently learning about software engineer!<br/>
