@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiradevs&label=Profile%20views&color=0e75b6&style=flat" alt="wiradevs" /> </p>
 
-[![X](https://img.shields.io/badge/X-@imsakkanaeru-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imsakkanaeru)  </p>
 
 
 👩🏻‍💻 Newbie Full-stack Developer who still learning in tech<br/>
@@ -22,7 +21,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imsakyanuar/)
-[![X](https://img.shields.io/badge/X-@imsakkanaeru-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imsakkanaeru) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/imsakkanaeru)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
