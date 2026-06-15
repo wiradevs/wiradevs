@@ -22,7 +22,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imsakyanuar/)
-
+[![X](https://img.shields.io/badge/X-@imsakkanaeru-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imsakkanaeru) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
