@@ -43,9 +43,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-<!-- GitHub stats -->
-![](https://github-readme-stats.vercel.app/api?username=wiradevs&show_icons=true&theme=radical)<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wiradevs&icon=0&color=0)](https://visitcount.itsvg.in)
