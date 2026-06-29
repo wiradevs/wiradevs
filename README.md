@@ -1,7 +1,7 @@
 <!--update header and gif emoji-->
 
 <h1 align="center">Hi 👋, I'm Imsak Yanuar</h1>
-<h3 align="center">A newbie Full-stack Developer from Indonesia</h3>
+<h3 align="center">A Full-stack Developer from Indonesia</h3>
 
 <br>
 
