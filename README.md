@@ -6,8 +6,6 @@
 <br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wiradevs&label=Profile%20views&color=0e75b6&style=flat" alt="wiradevs" /> </p>
-
 
 
 👩🏻‍💻 Full-stack Developer who still learning in tech<br/>
