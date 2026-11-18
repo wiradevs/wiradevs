@@ -52,12 +52,6 @@
 
 ---
 
-**CMS:**
-
-![Sanity](https://img.shields.io/badge/sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
-
----
-
 **Databases:**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -74,18 +68,38 @@
 
 ---
 
-**DevOps & Tools:**
+**Third-Party Services:**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-%23635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Sanity](https://img.shields.io/badge/sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
+![Resend](https://img.shields.io/badge/resend-%23000000.svg?style=for-the-badge&logo=resend&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/google%20analytics%204-%23E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ---
 
-**Analytics:**
+**Infrastructure & Deployment:**
 
-![Google Analytics](https://img.shields.io/badge/google%20analytics-%23E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/digitalocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Caddy](https://img.shields.io/badge/caddy-%231F88C0.svg?style=for-the-badge&logo=caddy&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-%23201A26.svg?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+**CI/CD & Version Control:**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+**Testing & Quality:**
+
+![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 
 ---
 
