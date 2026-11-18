@@ -23,8 +23,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/imsak.yanuar)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/imsakyanuar)
 
-# 💻 Tech Stack:
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 <table>
   <tr>
