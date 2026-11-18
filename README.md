@@ -65,6 +65,7 @@
   <tr>
     <td><b>APIs & Services</b></td>
     <td>
+      <img src="./stack/rest-api.svg" alt="REST API" title="RESTful API" height="45"/>
       <img src="./stack/postman.svg" alt="Postman" title="Postman" height="45"/>
       <img src="./stack/stripe.svg" alt="Stripe" title="Stripe" height="45"/>
       <img src="./stack/sanity.svg" alt="Sanity" title="Sanity" height="45"/>
